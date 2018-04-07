@@ -4,7 +4,7 @@
 
 ### Install
 
-1. Clone the `hyper-atomic-dark` repository into (`~/.hyper_plugins/local`).
+1. Clone the `hyper-atomic-dark` repository into `~/.hyper_plugins/local`.
 1. Open Hyper's preferences with `Cmd+,` (or manually at `~/.hyper.js`) with your editor.
 2. Update your list of localPlugins to include `hyper-atomic-dark`, like so:
   
