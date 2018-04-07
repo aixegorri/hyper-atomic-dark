@@ -65,6 +65,7 @@ exports.decorateConfig = config => {
         border-width: 0 0 0 1px;
         border-image: linear-gradient(#21252b, #181a1f 1em) 0 0 0 1 stretch;
         border-style: solid;
+        background-color: transparent;
       }
       .tab_tab:first-of-type {
         border-width: 0;
