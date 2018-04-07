@@ -73,6 +73,7 @@ exports.decorateConfig = config => {
       .tab_tab:hover {
         color: rgba(157, 165, 180, 0.6);
         transition: none;
+        background-color: transparent;
       }
       .tab_tab::after {
         content: "";
@@ -161,6 +162,7 @@ exports.decorateConfig = config => {
       .tab_tab:hover .tab_icon {
         transform: scale(1);
         transition-duration: .16s;
+        background: #d7dae0;
       }
       .tab_icon svg {
         display: none;
