@@ -1,0 +1,16 @@
+{
+  "name": "hyper-atomic-dark",
+  "version": "1.1.1",
+  "description": "Hyper theme based on Hyper Atom theme",
+  "main": "index.js",
+  "repository": "https://github.com/aixegorri/hyperterm-atomic-dark.git",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "atom",
+    "atomic"
+  ],
+  "author": "K. Aixegorri",
+  "license": "MIT"
+}
