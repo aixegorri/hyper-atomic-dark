@@ -1,9 +1,9 @@
 {
   "name": "hyper-atomic-dark",
   "version": "1.1.1",
-  "description": "Hyper theme based on Hyper Atom theme",
+  "description": "Hyper theme based on Atom theme",
   "main": "index.js",
-  "repository": "https://github.com/aixegorri/hyperterm-atomic-dark.git",
+  "repository": "https://github.com/aixegorri/hyper-atomic-dark.git",
   "keywords": [
     "hyper",
     "hyper-theme",
